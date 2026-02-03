@@ -157,7 +157,7 @@
     <header>
       <div>
         <h1>Pomodoro Timer + History</h1>
-        <p class="sub">集中→休憩を回し、履歴と統計を自動保存（localStorage）／GitHub Pagesで公開OK</p>
+        <p class="sub">集中→休憩を回し、履歴と統計を自動保存（localStorage）</p>
       </div>
       <div class="pill" id="clockPill">🕘 —</div>
     </header>
